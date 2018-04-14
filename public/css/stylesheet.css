@@ -1,0 +1,36 @@
+h1{
+  color: gray;
+}
+footer{
+  background: gray;
+  font-size: 11px;
+  font-family: sans-serif;
+}
+footer p{
+  margin: 0;
+  padding: 0;
+}
+footer p1{
+  font-size: 40px;
+  font-family: cursive;
+  font-weight:lighter;
+
+}
+p1{
+  font-family: cursive;
+}
+.cc1 p{
+  font-size: 14px;
+  font-weight: bold;
+  margin: 0;
+  padding: 1;
+}
+.cname{
+  color: red;
+}
+.homecol{
+  background: #EAEAEA;
+}
+.bt1{
+  background: #EAEAEA;
+}
